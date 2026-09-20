@@ -1,0 +1,25 @@
+# Build output
+target/
+out/
+bin/
+*.class
+*.jar
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python (plotting script)
+__pycache__/
+*.pyc
+.venv/
